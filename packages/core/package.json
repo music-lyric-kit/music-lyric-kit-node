@@ -1,0 +1,23 @@
+{
+  "name": "@music-lyric-kit/core",
+  "version": "0.0.0",
+  "author": "folltoshe",
+  "type": "module",
+  "description": "Music Lyric Kit - Core",
+  "scripts": {},
+  "keywords": [
+    "music",
+    "lyric",
+    "kit"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/music-lyric-kit/music-lyric-kit-node#readme",
+  "bugs": {
+    "url": "https://github.com/music-lyric-kit/music-lyric-kit-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/music-lyric-kit/music-lyric-kit-node.git",
+    "directory": "packages/core"
+  }
+}
