@@ -11,13 +11,13 @@
     "kit"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/music-lyric-kit/music-lyric-kit-node#readme",
+  "homepage": "https://github.com/music-lyric/music-lyric-kit-node#readme",
   "bugs": {
-    "url": "https://github.com/music-lyric-kit/music-lyric-kit-node/issues"
+    "url": "https://github.com/music-lyric/music-lyric-kit-node/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/music-lyric-kit/music-lyric-kit-node.git",
+    "url": "git+https://github.com/music-lyric/music-lyric-kit-node.git",
     "directory": "packages/core"
   }
 }
