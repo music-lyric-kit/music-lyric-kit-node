@@ -5,13 +5,10 @@
   "type": "module",
   "private": true,
   "description": "Music Lyric Kit - Test",
-  "scripts": {},
-  "keywords": [
-    "music",
-    "lyric",
-    "kit"
-  ],
   "license": "MIT",
+  "scripts": {
+    "dev": "vite dev"
+  },
   "homepage": "https://github.com/music-lyric/music-lyric-kit-node#readme",
   "bugs": {
     "url": "https://github.com/music-lyric/music-lyric-kit-node/issues"

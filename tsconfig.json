@@ -1,14 +1,14 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "lib": ["ESNext", "DOM", "DOM.Iterable"],
-    "module": "esnext",
-    "moduleResolution": "bundler",
-    "strict": true,
-    "resolveJsonModule": true,
     "declaration": true,
     "emitDeclarationOnly": true,
-    "removeComments": false
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "removeComments": false,
+    "resolveJsonModule": true,
+    "strict": true,
+    "target": "esnext"
   },
   "exclude": ["node_modules"]
 }
