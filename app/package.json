@@ -14,8 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/music-lyric/music-lyric-kit-node.git",
-    "directory": "packages/main"
+    "url": "https://github.com/music-lyric/music-lyric-kit-node.git",
+    "directory": "app"
   },
   "keywords": [
     "music",

@@ -1,9 +1,9 @@
 {
-  "name": "@music-lyric-kit/shared",
+  "name": "@music-lyric-kit/utils",
   "version": "0.0.0",
   "author": "folltoshe",
   "type": "module",
-  "description": "Music Lyric Kit - Shared",
+  "description": "Music Lyric Kit - Utils",
   "license": "MIT",
   "scripts": {
     "build": "vite build"
@@ -14,8 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/music-lyric/music-lyric-kit-node.git",
-    "directory": "packages/shared"
+    "url": "https://github.com/music-lyric/music-lyric-kit-node.git",
+    "directory": "packages/utils"
   },
   "main": "./dist/index.comm.js",
   "module": "./dist/index.ecma.js",
